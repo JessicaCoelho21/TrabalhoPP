@@ -1,0 +1,17 @@
+**********TESTE**********
+
+Número de Questões: 
+4
+*****Estatísticas do Teste*****
+
+	Número de Respostas Corretas: 4
+	Percentagem de Respostas Corretas: 100.0 %
+	Respostas Corretas: 
+	> Question 1
+	> Question 2
+	> Question 3
+	> Question 4
+	Número de Respostas Incorretas: 0
+	Percentagem de Respostas Incorretas: 0.0 %
+	Média de Tempo por Resposta: 1509.5
+	Desvio Padrão: 1441.8091644412123
